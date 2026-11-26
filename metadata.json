@@ -1,0 +1,6 @@
+{
+  "name": "TROPY GARDEN — Luxury Bridal Couture Salon",
+  "description": "TROPY GARDEN — סלון כלות יוקרתי בסגנון Haute Couture וגן טרופי קסום. גלי את קולקציית שמלות הכלה ותאמי פגישת מדידה אישית.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
